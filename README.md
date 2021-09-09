@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @tomato0212
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning "Machine Learning" , "Python" and "C++"
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ただのしがない大学生です．
+機械学習を中心に勉強を行っています．
 
 <!---
 tomato0212/tomato0212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
